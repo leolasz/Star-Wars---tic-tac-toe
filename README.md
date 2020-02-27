@@ -1,43 +1,15 @@
 # Tic-tac-toe-Star-Wars
 
-/ STEPS 1: FIRST COMMIT -
-------- HOME PAGE
+project 0
 
-WALL PAPER
-BUTTON 
-// STEPS 2: SECOND COMMIT -
-------- HOME PAGE
+Tic-Tac-Toe (also known as zeros and crosses or Xs and Os) is a paper and pencil game for two players, X and O, who take turns marking the spaces on a 3 × 3 grid. three of your marks in a horizontal, vertical or diagonal line wins the game. My idea was to create a thematic version of Star Wars with an opening page and another that directs to the game, tried through sounds and effects to bring that thought of battle star wars.
 
-CREATE BUTTON LINK WITH SECOND PAGE.
-MUSIC STAR WARS THEME.
----- GAME
-
-CODE THE GAME
-CREATE STYLE
-CREATE WALL PAPER
+how can Start
+Link : 
 
 
-//STEPS 3 :
-HOMEPAGE: 
- - CREATE AUDIO TAG
- - FIX CONTROL AUDIO
- - FIX BACKGORUND - IMAGE
- -UPDATE FONT STYLE 
- - UPDATE LAYOUT 
- 
- --GAME
- - FIX BACKGROUND
- - UPDATE CSS SQUARE COLORS 
- - CREATE IMAGE FOR THE GAME
- - CREATE ONCLICK BUTON WITH SOUND EFFECTS
-  - CREATE AUDIO TAG FOR THE GAME PAGE.
-  
-  STEP 4 
-  
-  - CHANGE IMAGE SIZES ON GALE FOLDER FOR BETTER VIEW
-  - CHANGE AUDIO POSITION TO FOOTER LEFT
-  PS. TEST THE GAMES ( WORKS GOOD) 
-
+How to Play
+This game is designed to play against Computer. Each player need to tick one by one on 3X3 board.Your goal is to win the board by getting three in a row - either across, down, or diagonally - or getting a majority of the squares in a full grid. The first player to draw that, wins the game. If none of the player get the winning combination, game will announce as draw and start again.
 
 ///////COMMENTS HOW I BUILD YHE GAME 
 
