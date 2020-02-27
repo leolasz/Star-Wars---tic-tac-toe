@@ -3,19 +3,20 @@ body{
   background-image: url("../images/image1.png");
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 
 .myButton {
 float:  center;
-	box-shadow: 0px -1px 0px 0px #fff6af;
-  background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);;
-	background-color:#ffec64;
+	box-shadow: 0px -1px 0px 0px black;
+  background:linear-gradient(to bottom black  5%, grey 3 100%);;
+	background-color: yellow;
 	border-radius:22px;
-	border:5px solid #ffaa22;
+	border:5px solid grey;
 	cursor:pointer;
-	color:#333333;
-	font-family:Arial;
-	font-size:28px;
+	color: black;
+	font-family: 'Star Jedi', arial;
+	font-size: xx-large;
 	font-weight:bold;
   padding:10px 41px;
 	text-decoration:none;
@@ -36,3 +37,4 @@ audio {
 
 	float: right;
 }
+
