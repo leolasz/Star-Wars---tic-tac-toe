@@ -5,7 +5,7 @@ project 0
 Tic-Tac-Toe (also known as zeros and crosses or Xs and Os) is a paper and pencil game for two players, X and O, who take turns marking the spaces on a 3 × 3 grid. three of your marks in a horizontal, vertical or diagonal line wins the game. My idea was to create a thematic version of Star Wars with an opening page and another that directs to the game, tried through sounds and effects to bring that thought of battle star wars.
 
 how can Start
-Link : 
+Link : https://leolasz.github.io/Star-wars---tic-tac-toe/index.html
 
 
 How to Play
