@@ -1,4 +1,4 @@
-/////step 1  - create function for TURN
+/////step 1  - create function for TURN VADER FIRST!
 var turn = 'o';
 ///// step 2 - create function for RESULT 
 function updateResult() {
